@@ -32,7 +32,7 @@ cd Employee-Salary-Prediction-ML-Using-Streamlit---ngrok
 ## 📸 Results & Screenshots
 
 <p align="center">
-    <img width="45%" height="600" alt="Figure_1" src="https://github.com/user-    attachments/assets/7e7782d0-2fbb-48d0-b574-0ac708a11b49" />
+    <img width="45%" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/7e7782d0-2fbb-48d0-b574-0ac708a11b49" />
     <img width="45%" height="810" alt="Figure_2" src="https://github.com/user-attachments/assets/b9a470b0-c8a2-4584-8070-ebfe0ef92dd2" />
 </p>
 
